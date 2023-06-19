@@ -1,0 +1,50 @@
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\DataGridView_Assignment.exe.config
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\DataGridView_Assignment.exe
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\DataGridView_Assignment.pdb
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\MySql.Data.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\Google.Protobuf.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\Zstandard.Net.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\Renci.SshNet.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\System.Buffers.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\System.Memory.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\MySql.Data.xml
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.csprojAssemblyReference.cache
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.exe.config
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.Form1.resources
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.Properties.Resources.resources
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.csproj.GenerateResource.cache
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.csproj.CopyComplete
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.exe
+C:\Users\Gotti\Downloads\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.pdb
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\DataGridView_Assignment.exe.config
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\DataGridView_Assignment.exe
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\DataGridView_Assignment.pdb
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\MySql.Data.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\Google.Protobuf.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\Zstandard.Net.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\Renci.SshNet.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\System.Buffers.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\System.Memory.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\bin\Debug\MySql.Data.xml
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.csprojAssemblyReference.cache
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.exe.config
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.Form1.resources
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.Properties.Resources.resources
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.csproj.GenerateResource.cache
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.csproj.CopyComplete
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.exe
+C:\Users\Gotti\Downloads\FUUAST\semester 3\DataGridView_Assignment\DataGridView_Assignment\obj\Debug\DataGridView_Assignment.pdb
